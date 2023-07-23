@@ -127,7 +127,7 @@ $$
 
 
 ## Result of Example Gridworld
-![result](./images/Pasted image 20230722174112.png)
+![result](./images/result.png)
 
 
 
