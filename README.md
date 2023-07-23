@@ -127,7 +127,7 @@ $$
 
 
 ## Result of Example Gridworld
-![](images/Pasted image 20230722174112.png)
+![](./images/Pasted image 20230722174112.png)
 
 
 
